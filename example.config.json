@@ -1,0 +1,7 @@
+{
+  "TOKEN": "your token",
+  "CHANNEL_WELCOME": "your id channel",
+  "ROLES_WELCOME": [
+    "your roles welcome"
+  ]
+}
